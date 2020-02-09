@@ -1,6 +1,6 @@
 ## Team Number - Project Name
 
-The participants are required to fork this repository and create a public Github repository under their own username (Single repository per team). The following created sections in this README.md need to be duly filled, highlighting the denoted points for the solution/implementation. Please feel free to create further sub-sections in this markdown, the idea is to understand the gist of the components in a singular document.
+Team Number- 18    Project Name- Mess Food Feedback App
 
 ### Project Overview
 ----------------------------------
@@ -26,4 +26,6 @@ An overview of
 ### Team Members
 ----------------------------------
 
-List of team member names and email IDs with their contributions
+Pratyush Agarwal- pratyushagarwalx8@gmail.com
+Sahil Agarwal-    sahil7872083682@gmail.com
+Roshan Shrivastava- gulla074@gmail.com
