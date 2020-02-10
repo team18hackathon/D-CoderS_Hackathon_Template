@@ -1,6 +1,6 @@
 ## Team Number- project name
 
-Team number 18- Mess Food Feedback Ap
+Team number 18- Mess Food Feedback App
 
 ### Project Overview
 ----------------------------------
